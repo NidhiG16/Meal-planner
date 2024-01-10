@@ -1,0 +1,287 @@
+{
+    "meals": {
+      "pancake": {
+        "ingredients": {
+          "ingredient1": {
+            "name": "1 cup all purpose flour",
+            "calories": 455
+          },
+          "ingredient2": {
+            "name": "1 teaspoon baking powder",
+            "calories": 2
+          },
+          "ingredient3": {
+            "name": "½ tablespoon sugar",
+            "calories": 24
+          },
+          "ingredient4": {
+            "name": "¼ teaspoon salt",
+            "calories": 0
+          },
+          "ingredient5": {
+            "name": "1 large egg",
+            "calories": 70
+          },
+          "ingredient6": {
+            "name": "¾ cup milk",
+            "calories": 92
+          },
+          "ingredient7": {
+            "name": "¼ teaspoon vanilla extract",
+            "calories": 3
+          },
+          "ingredient8": {
+            "name": "1 tablespoon salted butter , melted",
+            "calories": 102
+          },
+          "ingredient9": {
+            "name": "1 teaspoon salted butter for the pan",
+            "calories": 34
+          }
+          
+        }
+      },
+      "avocado": {
+        "ingredients": {
+          "ingredient1": {
+            "name": "1 slice bread ",
+            "calories": 67
+          },
+          "ingredient2": {
+            "name": "½ ripe avocado",
+            "calories": 115
+          },
+          "ingredient3": {
+            "name": "⅛ teaspoon kosher salt plus a pinch more for topping",
+            "calories": 0
+          },
+          "ingredient4": {
+            "name": "⅛ teaspoon coarsely ground black pepper plus a pinch more for topping",
+            "calories": 1
+          },
+          "ingredient5": {
+            "name": "½ teaspoon extra virgin olive oil",
+            "calories": 20
+          }
+          
+        }
+      },
+      "waffles": {
+        "ingredients": {
+          "ingredient1": {
+            "name": "2 cups all-purpose flour",
+            "calories": 910
+          },
+          "ingredient2": {
+            "name": "1 teaspoon salt",
+            "calories": 0
+          },
+          "ingredient3": {
+            "name": "4 teaspoons baking powder",
+            "calories": 10
+          },
+          "ingredient4": {
+            "name": "2 tablespoons white sugar",
+            "calories": 97
+          },
+          "ingredient5": {
+            "name": "2 eggs",
+            "calories": 147
+          },
+          "ingredient6":{
+            "name":"1 ½ cups warm milk",
+            "calories":183
+          },
+          "ingredient7":{
+            "name":"⅓ cup butter, melted",
+            "calories":537
+          },
+          "ingredient8":{
+            "name":"1 teaspoon vanilla extract",
+            "calories":12
+          }
+        }
+      },
+      "eggs benedict": {
+        "ingredients": {
+          "ingredient1": {
+            "name": "1 English muffin",
+            "calories": 100
+          },
+          "ingredient2": {
+            "name": "2 large eggs",
+            "calories": 140
+          },
+          "ingredient3": {
+            "name": "1 teaspoon apple cider vinegar or white vinegar",
+            "calories": 0
+          },
+          "ingredient4": {
+            "name": "½ tablespoon butter (7 grams/.25 ounces)",
+            "calories": 51
+          },
+          "ingredient5": {
+            "name": "2 slices Canadian bacon",
+            "calories": 40
+          },
+          "ingredient6":{
+            "name":"For the sauce:2 large egg yolks",
+            "calories":120
+          },
+          "ingredient7":{
+            "name":"½ teaspoon lemon juice",
+            "calories":0
+          },
+          "ingredient8":{
+            "name":"3 tablespoons salted butter , melted (42 grams/1.5 ounces)",
+            "calories":305
+          },
+          "ingredient9":{
+            "name":"Pinch of salt",
+            "calories":0
+          }
+          
+        }
+      },
+      "meatloaf": {
+        "ingredients": {
+          "ingredient1": {
+            "name": "1 ½ pounds ground beef",
+            "calories": 1851
+          },
+          "ingredient2": {
+            "name": "1 egg",
+            "calories": 72
+          },
+          "ingredient3": {
+            "name": "1 onion, chopped",
+            "calories": 41
+          },
+          "ingredient4": {
+            "name": "1 cup milk",
+            "calories": 122
+          },
+          "ingredient5": {
+            "name": "1 cup dried bread crumbs",
+            "calories": 427
+          },
+          "ingredient6":{
+            "name":"salt and pepper to taste",
+            "calories":0
+          },
+          "ingredient7":{
+            "name":"⅓ cup ketchup",
+            "calories":80
+          },
+          "ingredient8":{
+            "name":"2 tablespoons brown sugar",
+            "calories":84
+          },
+          "ingredient9":{
+            "name":"2 tablespoons prepared mustard",
+            "calories":18
+          }
+          
+        }
+      },
+      "pizza": {
+        "ingredients": {
+          "ingredient1": {
+            "name": "1 1/2 cups (355 ml) warm water (105°F-115°F)",
+            "calories": 0
+          },
+          "ingredient2": {
+            "name": "1 package (2 1/4 teaspoons) active dry yeast",
+            "calories": 3
+          },
+          "ingredient3": {
+            "name": "3 3/4 cups (490g) bread flour",
+            "calories": 1855
+          },
+          "ingredient4": {
+            "name": "2 tablespoons extra virgin olive oil (omit if cooking pizza in a wood-fired pizza oven)",
+            "calories": 239
+          },
+          "ingredient5": {
+            "name": "2 teaspoons kosher salt",
+            "calories": 0
+          },
+          "ingredient6":{
+            "name":"1 teaspoon sugar",
+            "calories":16
+          },
+          "ingredient7":{
+            "name":"For making the pizza and toppings: \n1 1/3 cups mozzarella cheese , freshly grated",
+            "calories":447
+          },
+          "ingredient8":{
+            "name":"1/3 cup onion , cut 0.5cm (1/4”) thick",
+            "calories":33
+          },
+          "ingredient9":{
+            "name":"1/3 cup bacon , cut into 1 x 3cm (1/2 x 2”) pieces",
+            "calories":124
+          },
+          "ingredient10":{
+            "name":"1/2 cup capsicum , sliced 0.5cm (1/4”) thick",
+            "calories":30
+          },
+          "ingredient11":{
+            "name":"12 slices pepperoni , cut 3mm / 1/8” thick",
+            "calories":121
+          },
+          "ingredient12":{
+            "name":"1/3 cup button mushrooms , cut 3mm (1/8”) thick",
+            "calories":14
+          },
+          "ingredient13":{
+            "name":"1/4 cup black olives , sliced",
+            "calories":39
+          }
+          
+        }
+      },
+      "burger": {
+        "ingredients": {
+          "ingredient1": {
+            "name": "600 g / 1.2 lb beef mince (ground beef) , at least 20% fat",
+            "calories": 1481
+          },
+          "ingredient2": {
+            "name": "1/8 tsp each salt and pepper PER burger",
+            "calories": 0
+          },
+          "ingredient3": {
+            "name": "2-3 tbsp canola oil",
+            "calories": 743
+          },
+          "ingredient4": {
+            "name": "4 soft burger buns or rolls , around 10cm/4″ wide ",
+            "calories": 512
+          },
+          "ingredient5": {
+            "name": "4-8 slices burger cheese (American) or other cheese or choice",
+            "calories": 4282
+          },
+          "ingredient6":{
+            "name":"8 cos/romaine lettuce leaves , torn to size (or shredded iceberg)",
+            "calories":23
+          },
+          "ingredient7":{
+            "name":"2 large tomatoes , cut into eight 7mm slices",
+            "calories":66
+          },
+          "ingredient8":{
+            "name":"1 red onion , finely sliced into rings",
+            "calories":41
+          },
+          "ingredient9":{
+            "name":"Special Burger Sauce",
+            "calories":89
+          }
+          
+        }
+      }
+    }
+  }
+  
